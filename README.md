@@ -25,8 +25,8 @@ This project demonstrates file and directory management in a Linux envoirement u
 This project helped me understand how to work with the Linux file systemand use command-line tools efficiently.These skills are important for IT support and entry level system administration roles.
 
 ## Screenshots
-![Create Directory](linux file management 1.jpg)
-![List Files](linux file management 2.jpg)
-![Remove Directory](linux file management 3.jpg)
+![Create Directory](linux-file-management-1.jpg)
+![List Files](linux-file-management-2.jpg)
+![Remove Directory](linux-file-management-3.jpg)
 This project helped me understand
 
